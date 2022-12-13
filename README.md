@@ -1,4 +1,4 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg" card_color="#008080" width="50" height="50" style="vertical-align:bottom"/> Tfl
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/bus-simple.svg" card_color="#008080" width="50" height="50" style="vertical-align:bottom"/> Tfl
 Tells you when the next bus is due.
 
 ## About
